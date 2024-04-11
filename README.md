@@ -1,7 +1,11 @@
-### Hi there 👋
+Hola bienvenidos a mi perfil👋
 
-<!--
+<!--un # para que el texto sea mas grande-->
+
+Soy Lucero, tengo 20 años, actualmente soy estuiante de la carrera de ingenieria industrial y trabajo el fin de semana
+
 **LucyLJTT/LucyLJTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
